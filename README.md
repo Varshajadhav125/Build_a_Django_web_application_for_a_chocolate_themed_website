@@ -1,6 +1,5 @@
 # Build_a_Django_web_application_for_a_chocolate_themed_website
 This web project includes both the source code and thorough documentation for a website dedicated to chocolate, developed using the Django web framework.
-# DuplicatefileremovalApplication_With_Logger_Facility_Automaticaly
 
         Name of the project :Creating a Django-based Web Application for a Chocolate Website Titled "Dark Sweet"
         
